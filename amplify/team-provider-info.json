@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vueawstutorial-dev-160823-authRole",
+      "UnauthRoleArn": "arn:aws:iam::142782511245:role/amplify-vueawstutorial-dev-160823-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::142782511245:role/amplify-vueawstutorial-dev-160823-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-vueawstutorial-dev-160823-deployment",
+      "UnauthRoleName": "amplify-vueawstutorial-dev-160823-unauthRole",
+      "StackName": "amplify-vueawstutorial-dev-160823",
+      "StackId": "arn:aws:cloudformation:eu-central-1:142782511245:stack/amplify-vueawstutorial-dev-160823/d7e48020-1a13-11ec-a91c-02d08c8fd25c",
+      "AmplifyAppId": "dvdxy8f1pejud"
+    },
+    "categories": {
+      "auth": {
+        "vueawstutorial25042c14": {}
+      }
+    }
+  }
+}
